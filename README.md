@@ -2,7 +2,15 @@
 <h3 align="center">Year 3 IT student from HUST</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bachhungcb&label=Profile%20views&color=0e75b6&style=flat" alt="bachhungcb" /> </p>
-
+https://github-readme-stats.vercel.app/api?username=bachhungcb&show_icons=true&theme=transparent
+<piture>
+  <source 
+  srcset="https://github-readme-stats.vercel.app/api?username=bachhungcb&show_icons=true&theme=transparent"
+  media="(prefers-color-scheme: dark)"
+  />
+  <source>
+  
+</piture>
 - 🔭 I’m currently working on [TO DO LIST](https://github.com/bachhungcb/ToDoList.git)
 
 - 🌱 I’m currently learning **NodeJS, ReactJS, C, C++, C#**
