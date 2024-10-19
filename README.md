@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bachhungcb&label=Profile%20views&color=0e75b6&style=flat" alt="bachhungcb" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bachhungcb" alt="bachhungcb" /></a> </p>
 
 - 🔭 I’m currently working on [TO DO LIST](https://github.com/bachhungcb/ToDoList.git)
 
